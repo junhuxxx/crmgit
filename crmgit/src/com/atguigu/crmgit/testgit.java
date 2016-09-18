@@ -6,8 +6,10 @@ public class testgit {
 
 		System.out.println("hello git");
 		System.out.println("hello hujun");
+
 		System.out.println("hello world");
 		System.out.println("hsdkhf");
+		System.out.println("hello bage");
 	}
 
 }
